@@ -4,7 +4,7 @@ date: 2021-11-14T22:28:57+07:00
 draft: false
 tags: [
     "news",
-    "armbian",
+    "armbian"
 ]
 ---
 
