@@ -1,7 +1,7 @@
 baseURL = 'https://stb.banghasan.com'
 languageCode = 'en-us'
 title = 'Armbian 64'
-theme = 'noteworthy'
+theme = 'noteworthy-'
 
 paginate = 4 # Set the number of posts to show before overflowing to the next page.
 summaryLength = 10 # Configure how long the post summary should be on the homepage.
