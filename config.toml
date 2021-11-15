@@ -1,0 +1,54 @@
+baseURL = 'https://stb.banghasan.com'
+languageCode = 'en-us'
+title = 'Armbian 64'
+theme = 'noteworthy'
+
+paginate = 4 # Set the number of posts to show before overflowing to the next page.
+summaryLength = 10 # Configure how long the post summary should be on the homepage.
+
+[taxonomies]
+  tag = "tags"
+
+[author]
+    name = "bangHasan"
+
+# Set to false to disallow raw HTML in markdown files
+[markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+     math = true
+    # Blog description at the top of the homepage. Supports markdown.
+    description = "Mini Server dengan Budget Minimalis"
+
+    # Main
+    email = "banghasan@gmail.com"
+    youtube = "https://www.youtube.com/banghasans"
+    soundcloud = "https://soundcloud.com/hasanudin-h-syafaat"
+
+
+    # Programming
+    github = "https://github.com/banghasan"
+    gitlab = "https://gitlab.com/banghasan"
+    stackoverflow = "https://stackoverflow.com/users/13564539/hasanudin-h-syafaat"
+
+
+# Menu links along the sidebar navigation.
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1 # Weight is an integer used to sort the menu items. The sorting goes from smallest to largest numbers. If weight is not defi>
+
+[[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+
+[[menu.main]]
+    name = "Archives"
+    identifier = "archives"
+    url = "/archives/"
+    weight = 3
+
