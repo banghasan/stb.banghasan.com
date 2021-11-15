@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Armbian 64</title>
+    <link>https://stb.banghasan.com/</link>
+    <description>Recent content on Armbian 64</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Nov 2021 04:40:00 +0700</lastBuildDate><atom:link href="https://stb.banghasan.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github Action</title>
+      <link>https://stb.banghasan.com/blog/github-action/</link>
+      <pubDate>Tue, 16 Nov 2021 04:40:00 +0700</pubDate>
+      
+      <guid>https://stb.banghasan.com/blog/github-action/</guid>
+      <description>Biar arsip terjaga, blog ini di simpan di github dan diintegrasikan dengan github action.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://stb.banghasan.com/archives/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://stb.banghasan.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pertamax</title>
+      <link>https://stb.banghasan.com/blog/pertamax/</link>
+      <pubDate>Sun, 14 Nov 2021 22:28:57 +0700</pubDate>
+      
+      <guid>https://stb.banghasan.com/blog/pertamax/</guid>
+      <description>Bismillah..
+Pertamax Website ini dibuild dari mini server armbian.
+Dan saat ini live dari server tersebut menggunakan koneksi internet seadanya.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://stb.banghasan.com/about/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://stb.banghasan.com/about/</guid>
+      <description>Personal  Assalamu&amp;rsquo;alaikum..
+I can&amp;rsquo;t type beautiful words here. But I can write useful works.</description>
+    </item>
+    
+  </channel>
+</rss>

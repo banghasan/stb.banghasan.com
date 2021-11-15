@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>armbian on Armbian 64</title>
+    <link>https://stb.banghasan.com/tags/armbian/</link>
+    <description>Recent content in armbian on Armbian 64</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Nov 2021 22:28:57 +0700</lastBuildDate><atom:link href="https://stb.banghasan.com/tags/armbian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pertamax</title>
+      <link>https://stb.banghasan.com/blog/pertamax/</link>
+      <pubDate>Sun, 14 Nov 2021 22:28:57 +0700</pubDate>
+      
+      <guid>https://stb.banghasan.com/blog/pertamax/</guid>
+      <description>Bismillah..
+Pertamax Website ini dibuild dari mini server armbian.
+Dan saat ini live dari server tersebut menggunakan koneksi internet seadanya.</description>
+    </item>
+    
+  </channel>
+</rss>
