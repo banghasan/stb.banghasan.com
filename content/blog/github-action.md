@@ -46,4 +46,8 @@ jobs:
 
 ```
 
+Dan hasilnya...
+
+![](/img/github-action.webp)
+
 Sumber: [appleboy/ssh-action](https://github.com/appleboy/ssh-action/)
