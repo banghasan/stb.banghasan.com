@@ -1,6 +1,6 @@
 baseURL = 'https://stb.banghasan.com'
 languageCode = 'en-us'
-title = 'Armbian 64'
+title = 'STB Dev'
 theme = 'noteworthy-'
 
 paginate = 4 # Set the number of posts to show before overflowing to the next page.
