@@ -1,6 +1,5 @@
 ---
 date: 2021-11-20T07:28:57+07:00
-url: '/tools/usb-burning-tool'
 type: section
 title: "Amlogic USB Burning Tool"
 ---
