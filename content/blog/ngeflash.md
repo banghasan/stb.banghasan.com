@@ -18,4 +18,6 @@ Tapi lantaran matot, jadi mengerti banyak hal..
 - bahkan stb android tv yang aku kira bakal mentok di Android v6, ternyata bisa diflash jadi v7 bahkan v9
 - Dan tentu saja: jadi percaya diri (PD) tidak kawatir gagal, jika terjadi brick lagi _woles_..
 
+![room kapal pecah](/img/room_flash.cwebp)
+
 Detail teknis mungkin menyusul aja yaak..

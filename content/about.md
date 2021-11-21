@@ -4,6 +4,13 @@ type: section
 title: "About"
 ---
 
+Blog ini dikhususkan update dan oprekan STB bangHasan, untuk tema:
+
+- stb / android box
+- armbian
+- openwrt
+- android tv
+
 ## Personal
 
 [![Visits Badge](https://badges.pufler.dev/visits/banghasan/banghasan)](https://badges.pufler.dev) ![updates](https://badges.pufler.dev/updated/banghasan/banghasan) ![repos](https://badges.pufler.dev/repos/banghasan) ![gist](https://badges.pufler.dev/gists/banghasan) ![GitHub Discussions](https://img.shields.io/github/discussions/banghasan/komentar?label=web-comments)
