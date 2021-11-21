@@ -6,7 +6,7 @@ Koleksi oprekan STB bangHasan
 
 ## Files
 
-Link: [https://stb.pages.dev/perangkat](https://stb.pages.dev/perangkat)
+Link: [https://stb.pages.dev/tools](https://stb.pages.dev/perangkat)
 
 File yang dibutuhkan diupload pada halaman release.
 
@@ -15,14 +15,14 @@ File yang dibutuhkan diupload pada halaman release.
 
 ### Software
 
-- [Drivers ArmLogix s905x](https://stb.pages.dev/perangkat/tools/driver)
-- [Burn Images to Usb](https://stb.pages.dev/perangkat/tools/burner)
-- [Burn Images to eMMC - Amlogic](https://stb.pages.dev/perangkat/tools/usb-burning-tool)
+- [Drivers ArmLogix s905x](https://stb.pages.dev/tools/driver)
+- [Burn Images to Usb](https://stb.pages.dev/tools/burner)
+- [Burn Images to eMMC - Amlogic](https://stb.pages.dev/tools/usb-burning-tool)
 
 ### OS / Firmware
 
 - AndroidTV
-- [Armbian](https://stb.pages.dev/perangkat/tools/armbian)
+- [Armbian](https://stb.pages.dev/tools/armbian)
 - OpenWRT
 
 ## Blog

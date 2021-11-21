@@ -7,9 +7,12 @@ title: "About"
 Blog ini dikhususkan update dan oprekan STB bangHasan, untuk tema:
 
 - stb / android box
+- android tv
 - armbian
 - openwrt
 - android tv
+
+dan segala hal tentang kamu, eh stb.
 
 ## Personal
 

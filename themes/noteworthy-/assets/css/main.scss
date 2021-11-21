@@ -157,15 +157,17 @@ a:visited {
     margin-right: 0.75em;
     margin-bottom: 1em;
     line-height: 1.75em;
-    color: $gray-light;
+    color: white;
+    background-color: $gray-medium;
+    padding: 0.2em;
 }
 
 .tag:visited {
-    color: $gray-light;
+    color: white;
 }
 
 .tag:hover {
-    color: $gray-medium;
+    color: yellow;
 }
 
 // ARTICLE FORMATTING
@@ -477,7 +479,7 @@ footer {
     }
 
     .social-icon {
-        padding: 0.3em 0.5em;
+        padding: 0.2em 0.1em;
         margin: 0.32em 0.1em;
         display: inline-block;
         height: 2em;
