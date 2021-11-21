@@ -20,4 +20,4 @@ Segala alat perang untuk STB kityaaah..
 - [Armbian](/tools/armbian)
 - OpenWRT
 
-Jika ada link yang tidak bekerja, ada yang baru dan ingin ditambahkan, silakan komentar.
+Jika ada link yang tidak bekerja, ada yang baru dan ingin ditambahkan, beritahukan bisa via komentar.

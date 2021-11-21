@@ -26,4 +26,4 @@ link: [gsmusbdriver](https://gsmusbdriver.com/install-amlogic-usb-driver)
 
 ---
 
-Jika ada link yang tidak bekerja, ada yang baru dan ingin ditambahkan, silakan komentar.
+Jika ada link yang tidak bekerja, ada yang baru dan ingin ditambahkan, beritahukan bisa via komentar.

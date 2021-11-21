@@ -34,4 +34,4 @@ Ini adalah versi yang sudah jadi, tinggal burn jalan - **tanpa edit-edit** lagi.
 
 ---
 
-Jika ada link yang tidak bekerja, ada yang baru dan ingin ditambahkan, silakan komentar.
+Jika ada link yang tidak bekerja, ada yang baru dan ingin ditambahkan, beritahukan bisa via komentar.

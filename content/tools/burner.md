@@ -21,4 +21,4 @@ Piranti untuk memburn usb / flashdisk / sdcard / emmc.
 
 ---
 
-Jika ada link yang tidak bekerja, ada yang baru dan ingin ditambahkan, silakan komentar.
+Jika ada link yang tidak bekerja, ada yang baru dan ingin ditambahkan, beritahukan bisa via komentar.
