@@ -1,6 +1,6 @@
-# stb.banghasan.com
+# stb dev
 
-Koleksi tentang STB bangHasan
+Koleksi oprekan STB bangHasan
 
 ## Files
 
@@ -9,6 +9,8 @@ File yang dibutuhkan diupload pada halaman release.
 ## Driver
 
 File disertakan juga pada halaman release.
+
+Cek halaman [Tools STB Banghasan](https://stb.pages.dev/perangkat/)
 
 Guna memperkaya referensi, berikut link penyertanya.
 
