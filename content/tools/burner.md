@@ -4,8 +4,6 @@ type: section
 title: "Burner Tools"
 ---
 
-# Burner
-
 Piranti untuk memburn usb / flashdisk / sdcard / emmc.
 
 > No receh-receh link, cukup doakan saja berkah dan rejeki lancar.
