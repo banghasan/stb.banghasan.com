@@ -4,39 +4,24 @@ Koleksi oprekan STB bangHasan
 
 ## Files
 
+Link: [https://stb.pages.dev/perangkat](https://stb.pages.dev/perangkat)
+
 File yang dibutuhkan diupload pada halaman release.
 
-## Driver
-
-File disertakan juga pada halaman release.
-
-Cek halaman [Tools STB Banghasan](https://stb.pages.dev/perangkat/)
-
-Guna memperkaya referensi, berikut link penyertanya.
-
-## Burner
-
-### Img to USB
-
-- https://github.com/balena-io/etcher (mudah)
-- https://github.com/pbatard/rufus (alternatif lain)
-
-### Flashing to eMMC
-
-Gunakan driver yang tepat, sebelum ngeflash.
-
-Dibutuhkan juga hardware `usb male to male` (bisa beli di marketplace kesayangan kalian).
-
-- [Amlogic USB Burning Tool](https://stb.pages.dev/tools/usb-burning-tool)
+> No receh-receh link, cukup doakan saja berkah dan rejeki lancar.
 
 
-## Armbian
+### Software
 
-- menyusul
+- [Drivers ArmLogix s905x](https://stb.pages.dev/perangkat/tools/driver)
+- [Burner Images ke Usb](https://stb.pages.dev/perangkat/tools/burner)
+- [Burn Images to eMMC - Amlogic](https://stb.pages.dev/perangkat/tools/usb-burning-tool)
 
-## OpenWRT
+### OS / Firmware
 
-- menyusul
+- AndroidTV
+- [Halaman Armbian](https://stb.pages.dev/perangkat/tools/armbian)
+- OpenWRT
 
 ## Blog
 

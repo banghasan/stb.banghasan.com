@@ -8,25 +8,16 @@ Segala alat perang untuk STB kityaaah..
 
 > No receh-receh link, cukup doakan saja berkah dan rejeki lancar.
 
+## Software
 
-## Driver
-- [Halaman Drivers](/tools/driver)
+- [Drivers ArmLogix s905x](/tools/driver)
+- [Burner Images ke Usb](/tools/burner)
+- [Burn Images to eMMC - Amlogic](/tools/usb-burning-tool)
 
-## Burn USB
+## OS / Firmware
 
-Alat burner ke usb, flashdisk, atau microSD
+- AndroidTV
+- [Halaman Armbian](/tools/armbian)
+- OpenWRT
 
-
-- https://github.com/balena-io/etcher (mudah)
-- https://github.com/pbatard/rufus (alternatif lain)
-
-## Burn eMMC
-- [Amlogic USB Burning Tool](/tools/usb-burning-tool)
-
-## Firmware
-
-### AndroidTV
-
-### Armbian
-
-### OpenWRT
+Jika ada link yang tidak bekerja, ada yang baru dan ingin ditambahkan, silakan komentar.

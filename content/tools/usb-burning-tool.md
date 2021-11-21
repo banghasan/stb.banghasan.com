@@ -6,7 +6,9 @@ title: "Amlogic USB Burning Tool"
 
 ## Amlogic USB Burning Tool
 
-Download minimal 2 versi.. buat jaga-jaga ketidakcocokan.
+Download-lah minimal 2 versi.. buat jaga-jaga ketidakcocokan.
+
+> No receh-receh link, cukup doakan saja berkah dan rejeki lancar.
 
 ### Direct
 
@@ -27,3 +29,8 @@ Link: [amlogicusbburningtool.com](https://www.amlogicusbburningtool.com/)
 - [Version 2.0.8](https://mega.nz/file/4IdmHAAA#G_qczOYJe2XlQl0FP9Kc9Qa_FiDkDl8Sqe9KeRkSwQY)
 
 Link: [androidtvnews.com](https://androidtvnews.com/amlogic-usb-burning-tool/)
+
+---
+
+
+Jika ada link yang tidak bekerja, ada yang baru dan ingin ditambahkan, silakan komentar.
