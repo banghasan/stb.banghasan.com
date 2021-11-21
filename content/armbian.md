@@ -1,6 +1,7 @@
 ---
-date: 2021-11-21T12:08:57+07:00
+date: 2021-11-21T12:09:57+07:00
 type: section
+slug: "tools/armbian"
 title: "Armbian"
 ---
 Link download files image armbian.

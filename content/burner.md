@@ -1,7 +1,8 @@
 ---
-date: 2021-11-21T07:28:57+07:00
+date: 2021-11-21T07:29:57+07:00
 type: section
 title: "Burner Tools"
+slug: "tools/burner"
 ---
 
 Piranti untuk memburn usb / flashdisk / sdcard / emmc.

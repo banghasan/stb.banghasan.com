@@ -1,7 +1,8 @@
 ---
-date: 2021-11-20T07:28:57+07:00
+date: 2021-11-20T07:22:57+07:00
 type: section
 title: "Drivers"
+slug: "tools/driver"
 ---
 
 ## Kelengkapan driver
