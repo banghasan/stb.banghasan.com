@@ -6,9 +6,11 @@ title: "Tools"
 
 Segala alat perang untuk STB kityaaah..
 
+> No receh-receh link, cukup doakan saja berkah dan rejeki lancar.
+
 
 ## Driver
-- [Drivers](/tools/driver)
+- [Halaman Drivers](/tools/driver)
 
 ## Burn USB
 

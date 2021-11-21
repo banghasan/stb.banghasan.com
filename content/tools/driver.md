@@ -10,7 +10,7 @@ Saya pakai yang sumber pertama.
 
 ### Sumber 1
 
-- amilogic_usb_drivers.zip
+- [amilogic_usb_drivers.zip](https://github.com/banghasan/stb.pages.dev/releases/download/0.1-driver/amilogic_usb_drivers-ewwink.zip)
 
 link: [ewwink](https://github.com/ewwink/driver-usb-vcom-stb-b860h-760h-amlogic-mediatek)
 
@@ -18,5 +18,6 @@ link: [ewwink](https://github.com/ewwink/driver-usb-vcom-stb-b860h-760h-amlogic-
 ### Sumber 2
 
 - [Amlogic_Driver.zip](https://gsmusbdriver.com/wp-content/uploads/Amlogic_Driver.zip)
+- [Mirror](https://github.com/banghasan/stb.pages.dev/releases/download/0.1-driver/Amlogic_Driver-gsmusbdriver.zip)
 
 link: [gsmusbdriver](https://gsmusbdriver.com/install-amlogic-usb-driver)
