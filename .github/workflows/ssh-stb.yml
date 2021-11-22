@@ -1,5 +1,10 @@
 name: remote ssh command
-on: [push]
+
+# push ke stb disable dulu nunggu ditaruh jakarta
+on:
+  push:
+    branches:
+      - dev
 jobs:
 
   build:
